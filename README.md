@@ -6,7 +6,6 @@ Penggunaan CLI dalam Git sangat penting karena memberikan kontrol penuh dan pres
 FUNGSI: Mempercepat alur kerja, memungkinkan otomatisasi (scripting), dan menyediakan akses ke fitur-fitur Git yang terkadang tidak tersedia atau tidak lengkap di aplikasi berbasis GUI (Graphic User Interface).
 
 2. Langkah-Langkah Push Repository
-<img src="/image/image.png/">
 Push digunakan untuk mengirimkan perubahan kode dari repositori lokal (komputer kamu) ke repositori remote (seperti GitHub/GitLab).
 
 Langkah-langkah:
@@ -28,6 +27,8 @@ Langkah-langkah:
 - Buka terminal/CLI di folder tujuan.
 
 - Ketik perintah: git clone [URL_REPOSITORI].
+berikut ini cara git clone:
+<img src="/image/image.png/">
 FUNGSI: Mendapatkan salinan penuh dari sebuah proyek agar kamu bisa mulai bekerja atau memodifikasi kodenya secara lokal.
 
 4. Langkah-Langkah Pull dan Push Repository
