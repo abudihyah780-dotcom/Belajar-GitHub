@@ -15,6 +15,9 @@ Langkah-langkah:
 - git commit -m "Pesan perubahan" (Menyimpan perubahan dengan catatan).
 
 - git push origin main (Mengirim ke server).
+berikut ini cara git push:
+
+<img src="/image/image git push.png">
 FUNGSI: Mengunggah hasil pekerjaan ke server agar tersimpan secara cloud dan bisa diakses/dilihat orang lain.
 
 3. Langkah-Langkah Clone Repository
@@ -27,9 +30,10 @@ Langkah-langkah:
 - Buka terminal/CLI di folder tujuan.
 
 - Ketik perintah: git clone [URL_REPOSITORI].
-
 berikut ini cara git clone:
+
 <img src="/image/image.png/">
+
 FUNGSI: Mendapatkan salinan penuh dari sebuah proyek agar kamu bisa mulai bekerja atau memodifikasi kodenya secara lokal.
 
 4. Langkah-Langkah Pull dan Push Repository
