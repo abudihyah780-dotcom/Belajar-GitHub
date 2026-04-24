@@ -27,6 +27,7 @@ Langkah-langkah:
 - Buka terminal/CLI di folder tujuan.
 
 - Ketik perintah: git clone [URL_REPOSITORI].
+
 berikut ini cara git clone:
 <img src="/image/image.png/">
 FUNGSI: Mendapatkan salinan penuh dari sebuah proyek agar kamu bisa mulai bekerja atau memodifikasi kodenya secara lokal.
