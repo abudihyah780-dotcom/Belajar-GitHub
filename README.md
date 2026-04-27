@@ -1,5 +1,5 @@
 # Belajar-GitHub
-4sepx16
+Dihyah
 
 1. Pentingnya Penggunaan Command Line (CLI)
 Penggunaan CLI dalam Git sangat penting karena memberikan kontrol penuh dan presisi terhadap versi kode.
