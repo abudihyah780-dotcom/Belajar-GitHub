@@ -31,7 +31,7 @@ Langkah-langkah:
 
 - Ketik perintah: git clone [URL_REPOSITORI].
 
-<img src="/image/image.png/">
+<img src="/image/image git clone.png">
 
 FUNGSI: Mendapatkan salinan penuh dari sebuah proyek agar kamu bisa mulai bekerja atau memodifikasi kodenya secara lokal.
 
@@ -41,4 +41,7 @@ Ini adalah siklus kerja rutin untuk menjaga agar kode di komputer kamu selalu si
 - Pull (Mengambil): git pull origin main — Mengambil perubahan terbaru dari server agar kode lokal kamu tidak tertinggal. Selalu lakukan ini sebelum mengerjakan fitur baru.
 
 - Push (Mengirim): git push origin main — Mengunggah kode yang sudah kamu kerjakan setelah ditarik dan digabungkan.
+
+<img src="/image/image git pull dan push.png">
+
 FUNGSI: Pull mencegah konflik kode dengan tim, sedangkan push membagikan hasil kerja kamu kepada tim.
